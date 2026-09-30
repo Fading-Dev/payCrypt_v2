@@ -73,3 +73,6 @@ test_snapshots/
 # cargo-fuzz crash reproductions; the seed corpus in fuzz/corpus is committed
 fuzz/artifacts/
 **/fuzz/artifacts/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
